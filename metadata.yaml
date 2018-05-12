@@ -1,0 +1,34 @@
+_repo: A-Small-Boy-and-Others_26115
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: Written when James was 70, "A Small Boy and Others" is a dramatic monologue
+  on a young boy's search for "the aesthetic clue." James finds his evidence in the
+  refined reconstructions of his family life, his imagination, his travel, and his
+  memories of the streets and neighborhoods of 19th-century New York. "A Small Boy
+  and Others" is a very personal study of fate, memory, and the wonder of youthful
+  conciousness and curiousity. It is also a love letter of sorts to New York City
+  in the third quarter of the 19th century.
+gutenberg_issued: '2008-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26115'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'James, Henry, 1843-1916'
+- !lcsh 'James, William, 1842-1910'
+- !lcc 'PS'
+title: A Small Boy and Others
+url: http://www.gutenberg.org/ebooks/26115
